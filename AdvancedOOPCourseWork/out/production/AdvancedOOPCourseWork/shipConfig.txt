@@ -1,0 +1,5 @@
+5,G3,left
+4,C9,up
+3,F4,down
+2,G10,right
+2,G3,up
